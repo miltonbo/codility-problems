@@ -1,6 +1,6 @@
 # Codility Lesson Problems
 
-My solutions for problems posted in [Colidity](https://codility.com/)
+My solutions for problems posted in [Codility](https://codility.com/)
 
 ## Getting Started
 
